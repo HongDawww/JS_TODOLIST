@@ -92,3 +92,9 @@ button:hover {
 	background-color: #6d6d6d;
 	cursor: pointer;
 }
+span {
+	line-height: 77px;
+}
+span:nth-child(2){
+	color: #d1ff67;
+}
