@@ -1,4 +1,4 @@
-# only JS - To Do List
+#  JS - To Do List
 
 👍 시작 !
 - 이름 입력란 출력
