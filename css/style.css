@@ -95,6 +95,9 @@ button:hover {
 span {
 	line-height: 77px;
 }
-span:nth-child(2){
+/* span:nth-child(2){
+	color: #d1ff67;
+} */
+#greeting {
 	color: #d1ff67;
 }
