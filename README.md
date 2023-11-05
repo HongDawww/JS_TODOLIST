@@ -4,6 +4,10 @@
 - 명언과 명언의 저자 랜덤 재생
 - 사진 랜덤 재생
 
+ # 기술스택
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 # 전체 디자인
 
 ![jstodolist](https://github.com/HongDawww/JS_TODOLIST/assets/142575028/864ca7bc-f873-4848-b8ae-0a7aa97945df)
