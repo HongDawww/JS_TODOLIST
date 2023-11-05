@@ -1,5 +1,22 @@
 #  JS - To Do List
 
+
+# 전체 디자인
+
+![jstodolist](https://github.com/HongDawww/JS_TODOLIST/assets/142575028/864ca7bc-f873-4848-b8ae-0a7aa97945df)
+
+# 효과
+- 전체 animation 효과
+- font 적용
+- 이미지 hover 효과
+
+ # 특징
+- weather api 활용 하여 현재 내 위치의 날씨 확인 가능 !
+- 편리한 to do 작성과 삭제 기능
+- 명언과 명언의 저자 랜덤 재생
+- 사진 랜덤 재생
+ 
+
 👍 시작 !
 - 이름 입력란 출력
 - 재 시작시 이름 기억
